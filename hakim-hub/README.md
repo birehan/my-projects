@@ -11,8 +11,7 @@ HakimHub is a comprehensive medical information recommendation system designed t
 ![Chatbot](https://github.com/birehan/my-projects/tree/main/hakim-hub/client-web/public/assets/chatbot.png)
 
 
-![ScreenShot](https://raw.githubusercontent.com/i-saumitra/Voice-controlled-MP3-Player/master/screenshot.jpg)
-
+![Chatbot](hakim-hub/client-web/public/assets/chatbot.png)
 
 ## Features
 
