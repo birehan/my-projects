@@ -20,8 +20,8 @@ Users can input their symptoms using text-based input, allowing for a personaliz
 The system generates a list of recommendations for medical institutions and doctors based on the user's input. Each recommendation includes justification and relevance, sorted by relevance. Clickable buttons/links are provided to access detailed information on the entities.
 
 <div style="display: flex; flex-direction: row;">
-  <img src="client-web/public/assets/chatbot2.png" width="50%" height="300" alt="Chatbot" style="margin-right: 50px;">
-  <img src="client-web/public/assets/chatbot3.png" width="50%" height="300" alt="Chatbot">
+  <img src="client-web/public/assets/chatbot2.png" width="40%" height="300" alt="Chatbot" style="margin-right: 50px;">
+  <img src="client-web/public/assets/chatbot3.png" width="40%" height="300" alt="Chatbot">
 </div>
 
 ### Detailed Information Display
