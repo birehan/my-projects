@@ -1,9 +1,0 @@
-export const GET_PROJECTS = "GET_PROJECTS";
-export const GET_PROJECT_DETAIL = "GET_PROJECT_DETAIL";
-export const GET_ALUMNI = "GET_ALUMNI";
-export const GET_GALLERY = "GET_GALLERY";
-export const GET_GALLERY_DETAIL = "GET_GALLERY_DETAIL";
-export const GET_STAFFS = "GET_STAFFS";
-
-export const REQUEST_SUCCESS = "REQUEST_SUCCESS";
-export const REQUEST_FAILED = "REQUEST_FAILED";
