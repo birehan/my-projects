@@ -21,10 +21,11 @@ Users can input their symptoms using text-based input, allowing for a personaliz
 The system generates a list of recommendations for medical institutions and doctors based on the user's input. Each recommendation includes justification and relevance, sorted by relevance. Clickable buttons/links are provided to access detailed information on the entities.
 
 ![Home Page](https://github.com/birehan/my-projects/tree/main/hakim-hub/client-web/public/assets/homepage1.png)
+<img src="https://github.com/birehan/my-projects/tree/main/hakim-hub/client-web/public/assets/homepage1.png" width="400"/>
 
 ### Detailed Information Display
 
-Users can view comprehensive details about doctors and medical institutions by clicking on doctors and institutions for more details and by clicking on buttons in the recommendations. The detailed information includes name, contact information, address, specialties, qualifications, working hours, and other relevant information for the institutions as well as the doctors.
+Users can view comprehensive details about doctors and medical institutions by clicking on doctors and institutions for more details and by clicking on the buttons in the recommendations. The detailed information includes name, contact information, address, specialties, qualifications, working hours, and other relevant information for the institutions as well as the doctors.
 
 ![Hospital Detail 1](https://github.com/birehan/my-projects/tree/main/hakim-hub/client-web/public/assets/hospitaldetail1.png)
 
