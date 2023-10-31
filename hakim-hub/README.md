@@ -19,9 +19,11 @@ Users can input their symptoms using text-based input, allowing for a personaliz
 
 The system generates a list of recommendations for medical institutions and doctors based on the user's input. Each recommendation includes justification and relevance, sorted by relevance. Clickable buttons/links are provided to access detailed information on the entities.
 
-![Chatbot](client-web/public/assets/chatbot.png)
-![Chatbot](client-web/public/assets/chatbot2.png)
-![Chatbot](client-web/public/assets/chatbot3.png)
+<div style="display: flex; flex-direction: row;">
+  <img src="hakim-hub/client-web/public/assets/chatbot.png" width="30%" alt="Chatbot">
+  <img src="hakim-hub/client-web/public/assets/chatbot2.png" width="30%" alt="Chatbot">
+  <img src="hakim-hub/client-web/public/assets/chatbot3.png" width="30%" alt="Chatbot">
+</div>
 
 ### Detailed Information Display
 
