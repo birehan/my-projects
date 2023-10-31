@@ -17,7 +17,3 @@ HakimHub is a comprehensive medical information recommendation system designed t
 
 ## Plans
 HakimHub aims to become the go-to medical information recommendation system in Ethiopia and expand its services to reach a wider user base. We plan to continuously enhance our platform, gather user feedback, and forge partnerships with healthcare providers to improve the quality and availability of medical services across the country.
-
----
-
-*Please note that this README is a template based on the provided project description. You can customize it further to suit your project's specific needs and add any additional sections or details as necessary.*
