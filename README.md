@@ -10,5 +10,3 @@ At Hope for Children, we believe in the power of collective action. Join us in o
 
 # Project 3: MedQuizet Medical Question Bank
 MedQuizet is your go-to resource for medical students and professionals. Our comprehensive medical question bank features over 2000 questions, covering all major courses in medical school, including 10+ Ethiopian medical school universities. To keep our content fresh and relevant, we add 100+ new questions every week.
-
-Whether you're preparing for exams, staying updated with medical knowledge, or testing your expertise, MedQuizet is here to support you. Access a vast database of questions, test your skills, and stay on top of your medical education. Join our community of medical enthusiasts and reach your educational goals.
