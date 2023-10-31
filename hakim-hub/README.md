@@ -1,4 +1,4 @@
-# HakimHub: Medical Information Recommendation System
+# HakimHub: Bridging the Gap to Your HealthCare Options
 
 ## The Problem
 Many individuals in Ethiopia face challenges when seeking medical assistance, such as finding suitable doctors and medical institutions based on their specific needs. The existing process lacks personalized recommendations and a user-friendly interface, leading to inefficiencies and difficulties in accessing quality healthcare services.
