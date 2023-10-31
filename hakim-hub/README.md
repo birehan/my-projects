@@ -29,8 +29,8 @@ The system generates a list of recommendations for medical institutions and doct
 Users can view comprehensive details about doctors and medical institutions by clicking on doctors and institutions for more details and by clicking on the buttons in the recommendations. The detailed information includes name, contact information, address, specialties, qualifications, working hours, and other relevant information for the institutions as well as the doctors.
 
 <div style="display: flex; flex-direction: row;">
-  <img src="client-web/public/assets/hospitaldetail1.png)" width="45%" height="300" alt="Hopsital detail" style="margin-right: 50px;">
-  <img src="client-web/public/assets/hospitaldetail2.png)" width="45%" height="300" alt="detail">
+  <img src="client-web/public/assets/hospitaldetail1.png" width="45%" height="300" alt="Hopsital detail" style="margin-right: 50px;">
+  <img src="client-web/public/assets/hospitaldetail2.png" width="45%" height="300" alt="detail">
 </div>
 
 ### Search and Filter
