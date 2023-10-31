@@ -6,9 +6,9 @@ Many individuals in Ethiopia face challenges when seeking medical assistance, su
 
 ## Our Solution
 
-HakimHub is a comprehensive medical information recommendation system designed to address the challenges faced by individuals in Ethiopia. Our platform allows users to input their symptoms and generates personalized recommendations for doctors and medical institutions. With a conversation-based interface, HakimHub understands user input and provides relevant recommendations in a conversational manner.
+HakimHub is a comprehensive medical information recommendation system designed to address the challenges faced by individuals in Ethiopia. Our platform allows users to input their symptoms and generates personalized recommendations for doctors and medical institutions. With a conversation-based interface, HakimHub understands user input and provides relevant recommendations conversationally.
 
-![Chatbot](hakim-hub/client-web/public/assets/chatbot.png)
+![Chatbot](https://github.com/birehan/my-projects/tree/main/hakim-hub/client-web/public/assets/chatbot.png)
 
 ## Features
 
@@ -20,19 +20,19 @@ Users can input their symptoms using text-based input, allowing for a personaliz
 
 The system generates a list of recommendations for medical institutions and doctors based on the user's input. Each recommendation includes justification and relevance, sorted by relevance. Clickable buttons/links are provided to access detailed information on the entities.
 
-![Home Page](hakim-hub/client-web/public/assets/home%20page%202.png)
+![Home Page](https://github.com/birehan/my-projects/tree/main/hakim-hub/client-web/public/assets/homepage1.png)
 
 ### Detailed Information Display
 
 Users can view comprehensive details about doctors and medical institutions by clicking on doctors and institutions for more details and by clicking on buttons in the recommendations. The detailed information includes name, contact information, address, specialties, qualifications, working hours, and other relevant information for the institutions as well as the doctors.
 
-![Hospital Detail 1](hakim-hub/client-web/public/assets/hospital%20detail%201%20.png)
+![Hospital Detail 1](https://github.com/birehan/my-projects/tree/main/hakim-hub/client-web/public/assets/hospitaldetail1.png)
 
 ### Search and Filter
 
 HakimHub provides a powerful search and filter functionality, allowing users to easily find doctors and medical institutions based on their specific criteria. The intuitive filtering options enable users to refine their search and quickly access the information they need, enhancing the overall user experience.
 
-![Hospitals](hakim-hub/client-web/public/assets/hospitals.png)
+![Hospitals](https://github.com/birehan/my-projects/tree/main/hakim-hub/client-web/public/assets/hospitals.png)
 
 ## Plans
 
