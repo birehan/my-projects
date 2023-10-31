@@ -1,0 +1,17 @@
+{
+    "value": {
+      "fullName": "fullName",
+      "about": "about",
+      "gender": "gender",
+      "email": "email",
+      "photoUrl": "photoUrl",
+      "yearsOfExperience": 5,
+      "mainInstitutionId": "mainInstitutionId",
+      "mainInstitutionName": "mainInstitutionName",
+      "specialities": [],
+      "educations": [],
+      "experiences": [],
+      "id": "id"
+    }
+  }
+  

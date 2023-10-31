@@ -1,0 +1,193 @@
+{
+    "isSuccess": true,
+    "value": {
+        "institutionName": "Addis Cardiac Hospital",
+        "branchName": "",
+        "website": "http://addiscardiacenter.com/e/",
+        "phoneNumber": "011 618 7345",
+        "summary": "Addis Cardiac Hospital takes pride in being the first specialized cardiovascular hospital in Ethiopia, located at Bole Sub City in front of Ethiopian Airlines Cargo terminal. ACH joined the Hospital service in 2006 to provide modern and advanced investigations and treatment modalities for cardiac and related disease.\n\nWe are in the hospital business to deliver exceptional healthcare services to all those who will require our services. Our employees are well trained and qualified to handle the wide range of health care services. By investing millions, ACH has equipped itself with an advanced Cath lab and other latest medical equipment.\n\nWe are working to ensure that all our patients are given first class treatment whenever they visit our hospital. We have installed a new Hospital Management System (HRM) that will enable us to properly manage all activities increasing efficiency at all levels.ACH is owned by Ethiopian and Swedish shareholders, with one of its shareholder and Board chairman being Dr. Firku Maru, a highly qualified cardiologist educated and trained in Sweden with 20 plus years of working as a cardiologist.",
+        "establishedOn": "2006-01-01T21:00:00",
+        "rate": 3.5,
+        "status": "Open",
+        "allEducationalInstitutions": [
+            {
+                "institutionName": "St.paul Millennium Medical College",
+                "logoUrl": "https://res.cloudinary.com/eskalate/image/upload/v1688045162/hakimhub/image/upload/8a627527-5a54-4bb5-ac87-ec2573a9973c.jpg"
+            },
+            {
+                "institutionName": "Mekelle University",
+                "logoUrl": "https://res.cloudinary.com/eskalate/image/upload/v1688057361/hakimhub/image/upload/1c5b7235-b773-4a46-87c0-1bb78b01a89e.jpg"
+            },
+            {
+                "institutionName": "Addis Ababa university",
+                "logoUrl": "https://res.cloudinary.com/eskalate/image/upload/v1688067390/hakimhub/image/upload/702595b5-bad2-4475-8f61-cd29a8622a8d.png"
+            },
+            {
+                "institutionName": "Jimma university",
+                "logoUrl": "https://res.cloudinary.com/eskalate/image/upload/v1688107206/hakimhub/image/upload/19f83d6b-ba8b-4285-a67a-903fd29021a7.jpg"
+            },
+            {
+                "institutionName": "Yonsei university",
+                "logoUrl": "https://res.cloudinary.com/eskalate/image/upload/v1688107468/hakimhub/image/upload/90fdb96c-3b93-465d-982f-94fe5eb913e9.jpg"
+            },
+            {
+                "institutionName": "University of Gonder",
+                "logoUrl": "https://res.cloudinary.com/eskalate/image/upload/v1688108678/hakimhub/image/upload/a1eedf06-777a-48bc-831f-733f0bc0b530.png"
+            },
+            {
+                "institutionName": "Orotta Post-Graduate Medical School",
+                "logoUrl": "https://res.cloudinary.com/eskalate/image/upload/v1688109888/hakimhub/image/upload/f0fb74ab-737a-4562-8976-e685add1ef6e.png"
+            }
+        ],
+        "allSpecialities": [
+            "Orthopedic Surgeon",
+            "General Practitioner",
+            "Surgeon",
+            "Urologist",
+            "Internist",
+            "Hematologist",
+            "Neurologist & Psychiatrist",
+            "Dental Surgeon",
+            "Pediatrician",
+            "Diabetologist",
+            "Anesthesiologist",
+            "General Surgeon",
+            "Pediatric Surgeon",
+            "Cardiologist",
+            "Obstetrician & Gynecologist",
+            "Ophthalmologist",
+            "Gastroenterologist",
+            "Radioloigst"
+        ],
+        "logoUrl": "https://res.cloudinary.com/hakimhub/image/upload/v1654431865/POP_DATA/5b1cc2ea4c3e7.jpg",
+        "bannerUrl": "https://res.cloudinary.com/hakimhub/image/upload/v1654431865/POP_DATA/5b1cc2ea4c3e7.jpg",
+        "institutionAvailability": {
+            "startDay": "Monday",
+            "endDay": "Sunday",
+            "opening": "00:00",
+            "closing": "23:59",
+            "twentyFourHours": true,
+            "id": "82fbc053-1c2d-49e6-bfdd-5825d2e82f49"
+        },
+        "address": {
+            "country": "Ethiopia",
+            "region": "ADDIS ABABA",
+            "zone": "01",
+            "woreda": "01",
+            "city": "Addis Ababa",
+            "subCity": "Bole",
+            "longitude": 38.78312,
+            "latitude": 8.98443,
+            "summary": "Bole Sub City, Infront of Addis Ababa Airport Cargo",
+            "id": "cc1e11ab-8729-4b80-8915-4124a2c10f5d"
+        },
+        "services": [
+            "Cardiology",
+            "X-Ray",
+            "Angioplasty Percutaneous Coronary Intervention (PCI)",
+            "Ultrasound",
+            "Echocardiography",
+            "Surgery",
+            "Intensive Coronary Care Unit",
+            "Laboratory",
+            "Pharmacy",
+            "Open Heart surgery",
+            "Diagnostic Coronary Angiography"
+        ],
+        "photos": [
+            "https://res.cloudinary.com/hakimhub/image/upload/v1654431865/POP_DATA/5b1cc2ea4c3e7.jpg",
+            "https://res.cloudinary.com/hakimhub/image/upload/v1654431867/POP_DATA/addis-cardiac-hospital-15_2x.jpg",
+            "https://res.cloudinary.com/hakimhub/image/upload/v1654431869/POP_DATA/Cath-lab-495x400.jpg",
+            "https://res.cloudinary.com/hakimhub/image/upload/v1654431870/POP_DATA/OIP.jpg",
+            "https://res.cloudinary.com/hakimhub/image/upload/v1654431872/POP_DATA/photo_2021-08-17_14-09-39-495x400.jpg"
+        ],
+        "doctors": [
+            {
+                "fullName": "Dr. Mussie Abera",
+                "about": "",
+                "gender": "Male",
+                "email": null,
+                "photoUrl": "https://res.cloudinary.com/hakimhub/image/upload/v1656314302/POP_DATA_DOC/Addis_Cardiac_Hospital_0.jpg",
+                "yearsOfExperience": 3,
+                "mainInstitutionId": "33c1af21-d756-43be-97c0-916ed3d26a3b",
+                "mainInstitutionName": "Addis Cardiac Hospital",
+                "specialities": [
+                    "Cardiologist"
+                ],
+                "id": "0db397bf-4d14-471a-aba1-1358f16041de"
+            },
+            {
+                "fullName": "Dr. Gebeyehu Bekele",
+                "about": "",
+                "gender": "Male",
+                "email": null,
+                "photoUrl": "https://res.cloudinary.com/hakimhub/image/upload/v1656314320/POP_DATA_DOC/Addis_Cardiac_Hospital_5.jpg",
+                "yearsOfExperience": 5,
+                "mainInstitutionId": "33c1af21-d756-43be-97c0-916ed3d26a3b",
+                "mainInstitutionName": "Addis Cardiac Hospital",
+                "specialities": [
+                    "Internist"
+                ],
+                "id": "2c6a56d5-eba7-410b-b8c9-9eb5ab211493"
+            },
+            {
+                "fullName": "Dr. Biniam Lema",
+                "about": "",
+                "gender": "Male",
+                "email": null,
+                "photoUrl": "https://res.cloudinary.com/hakimhub/image/upload/v1656314313/POP_DATA_DOC/Addis_Cardiac_Hospital_3.jpg",
+                "yearsOfExperience": 5,
+                "mainInstitutionId": "33c1af21-d756-43be-97c0-916ed3d26a3b",
+                "mainInstitutionName": "Addis Cardiac Hospital",
+                "specialities": [
+                    "Cardiologist"
+                ],
+                "id": "6fa57bb1-7874-48be-9810-b566bc934c5c"
+            },
+            {
+                "fullName": "Dr. Tewodros F/mariam",
+                "about": "",
+                "gender": "Male",
+                "email": null,
+                "photoUrl": "https://res.cloudinary.com/hakimhub/image/upload/v1656314305/POP_DATA_DOC/Addis_Cardiac_Hospital_1.jpg",
+                "yearsOfExperience": 3,
+                "mainInstitutionId": "33c1af21-d756-43be-97c0-916ed3d26a3b",
+                "mainInstitutionName": "Addis Cardiac Hospital",
+                "specialities": [
+                    "Cardiologist"
+                ],
+                "id": "8f12a3d3-3a2e-4b05-84ce-c9d9baa53fc4"
+            },
+            {
+                "fullName": "Dr. Aderfris Bahiru",
+                "about": "",
+                "gender": "Male",
+                "email": null,
+                "photoUrl": "https://res.cloudinary.com/hakimhub/image/upload/v1656314316/POP_DATA_DOC/Addis_Cardiac_Hospital_4.jpg",
+                "yearsOfExperience": 2,
+                "mainInstitutionId": "33c1af21-d756-43be-97c0-916ed3d26a3b",
+                "mainInstitutionName": "Addis Cardiac Hospital",
+                "specialities": [
+                    "Internist"
+                ],
+                "id": "ad4b5748-85fb-471a-9aea-76d736fd53a4"
+            },
+            {
+                "fullName": "Dr. Mohamed Bedru",
+                "about": "",
+                "gender": "Male",
+                "email": null,
+                "photoUrl": "https://res.cloudinary.com/hakimhub/image/upload/v1656314309/POP_DATA_DOC/Addis_Cardiac_Hospital_2.jpg",
+                "yearsOfExperience": 4,
+                "mainInstitutionId": "33c1af21-d756-43be-97c0-916ed3d26a3b",
+                "mainInstitutionName": "Addis Cardiac Hospital",
+                "specialities": [
+                    "Cardiologist"
+                ],
+                "id": "f884c5aa-1178-46d6-bed2-8c272a236283"
+            }
+        ],
+        "id": "33c1af21-d756-43be-97c0-916ed3d26a3b"
+    },
+    "error": null
+}
