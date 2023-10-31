@@ -8,8 +8,7 @@ Many individuals in Ethiopia face challenges when seeking medical assistance, su
 
 HakimHub is a comprehensive medical information recommendation system designed to address the challenges faced by individuals in Ethiopia. Our platform allows users to input their symptoms and generates personalized recommendations for doctors and medical institutions. With a conversation-based interface, HakimHub understands user input and provides relevant recommendations conversationally.
 
-![Chatbot](client-web/public/assets/chatbot.png)
-
+![Home Page](client-web/public/assets/homepage1.png)
 ## Features
 
 ### User Input Symptom
@@ -20,7 +19,7 @@ Users can input their symptoms using text-based input, allowing for a personaliz
 
 The system generates a list of recommendations for medical institutions and doctors based on the user's input. Each recommendation includes justification and relevance, sorted by relevance. Clickable buttons/links are provided to access detailed information on the entities.
 
-![Home Page](client-web/public/assets/homepage1.png)
+![Chatbot](client-web/public/assets/chatbot.png)
 
 ### Detailed Information Display
 
